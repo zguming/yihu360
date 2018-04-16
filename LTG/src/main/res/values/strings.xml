@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+
+    <string name="app_name">练题狗</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="activity_start">鼎维考试APP</string>
+    <string name="jiexi">解析</string>
+    <string name="black_home">返回</string>
+    <string name="new_user_register">新用户注册</string>
+    <string name="go_now">GO NOW</string>
+    <string name="jinbi">金币</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">加载更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_footer_loading_all_over">已全部加载完</string>
+    <string name="xlistview_footer_hint_failure">加载失败，请检查您的网络设置</string>
+
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <!-- 首页弹出评分框 -->
+    <string name="score_title">您对练题狗满意么？\n给个好评鼓励下吧</string>
+    <string name="score_button1">马上好评</string>
+    <string name="score_button2">去提意见</string>
+    <string name="score_button3">以后再说</string>
+    <!-- 分享 -->
+    <!--   <string name="QQAppId">1104897208</string>
+    <string name="QQAPPKEY">YFiRiUqfJk87qrUs</string>
+    <string name="WXAppID">wx0f0fdc07bdf0acc7</string>
+    <string name="WXAppSecret">9b719b607afc516e2461874b16506147</string> -->
+    <string name="pay_result_callback_msg" formatted="false">微信支付结果：%s</string>
+</resources>

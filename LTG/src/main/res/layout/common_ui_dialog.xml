@@ -1,0 +1,90 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/white_radius"
+    android:gravity="center"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="265dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" 
+         android:layout_marginTop="15dp"
+        >
+
+        <TextView
+            android:id="@+id/alert_dialog_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="标题"
+            android:textColor="@color/black"
+            android:textSize="14sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/alert_dialog_content_tv"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textColor="@color/black"
+            android:textSize="13sp" 
+            android:text="内容"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/alert_dialog_confirm_btn"
+        android:layout_width="265dp"
+        android:layout_height="wrap_content"
+        android:background="@drawable/touch_click"
+        android:gravity="center"
+        android:text="内容"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" 
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@color/ios_dialog_xian" />
+
+    <LinearLayout
+        android:id="@+id/alert_dialog_choose_layout"
+        android:layout_width="265dp"
+        android:layout_height="45dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/alert_dialog_left_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/iso_button_click_left"
+            android:gravity="center"
+            android:text="是"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/text_xian"
+            android:layout_width="1dip"
+            android:layout_height="fill_parent"
+            android:background="@color/ios_dialog_xian" />
+
+        <Button
+            android:id="@+id/alert_dialog_right_btn"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:background="@drawable/iso_button_click_right"
+            android:gravity="center"
+            android:text="否"
+            android:textColor="@color/blue"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+</LinearLayout>

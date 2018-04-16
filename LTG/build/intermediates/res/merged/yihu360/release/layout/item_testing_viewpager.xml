@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <cn.net.dingwei.myView.ElasticScrollView_answer
+        android:id="@+id/myScrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/lianxi_bg"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/timu"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="10dip"
+                android:lineSpacingMultiplier="1.2"
+                android:text="你喜欢动漫么？（）你喜欢动漫么？（）你喜欢动漫么？（）你喜欢动漫么？（）"
+                android:textSize="13sp" />
+
+
+            <ImageView
+                android:id="@+id/imageview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dip" />
+
+            <LinearLayout
+                android:id="@+id/linear_choice_question"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/answer_a"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_a" />
+
+                    <TextView
+                        android:id="@+id/answer_text_a"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案1答案1答案1答案1答案1答案1答案1答案1答案1答案11答案1答案1答案1答案1答案1答案11答案1答案1答案1答案1答案1答案11答案1答案1答案1答案1答案1答案11答案1答案1答案1答案1答案1答案11"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_b"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_b" />
+
+                    <TextView
+                        android:id="@+id/answer_text_b"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_c"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_c"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_c" />
+
+                    <TextView
+                        android:id="@+id/answer_text_c"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_d"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_d"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_d" />
+
+                    <TextView
+                        android:id="@+id/answer_text_d"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_e"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_e"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_e" />
+
+                    <TextView
+                        android:id="@+id/answer_text_e"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_f"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_f"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_f" />
+
+                    <TextView
+                        android:id="@+id/answer_text_f"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_g"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_g"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/answer_g" />
+
+                    <TextView
+                        android:id="@+id/answer_text_g"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="答案2答案2答2答案1答案1答案1答"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_true"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_true"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/npd_1" />
+
+                    <TextView
+                        android:id="@+id/answer_text_true"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="判断题正确"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_answer_false"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/touch_click"
+                    android:clickable="true"
+                    android:orientation="horizontal"
+                    android:padding="10dip" 
+                    android:visibility="gone">
+
+                    <ImageView
+                        android:id="@+id/answer_false"
+                        android:layout_width="25dip"
+                        android:layout_height="25dip"
+                        android:src="@drawable/npd_2" />
+
+                    <TextView
+                        android:id="@+id/answer_text_false"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:lineSpacingMultiplier="1.2"
+                        android:paddingLeft="15dip"
+                        android:text="判断题错误"
+                        android:textSize="13sp" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </cn.net.dingwei.myView.ElasticScrollView_answer>
+
+</LinearLayout>

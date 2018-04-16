@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <include layout="@layout/refresh" />
+    <LinearLayout
+        android:id="@+id/linear_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:baselineAligned="false"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/rl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+
+            <!-- 视频view -->
+            <FrameLayout
+                android:id="@+id/video_layout"
+                android:layout_width="fill_parent"
+                android:layout_height="200dp"
+                android:background="@android:color/black">
+
+                <com.universalvideoview.UniversalVideoView
+                    android:id="@+id/videoView"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    app:uvv_autoRotation="true"
+                    app:uvv_fitXY="false" />
+
+                <com.universalvideoview.UniversalMediaController
+                    android:id="@+id/media_controller"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    app:uvv_scalable="true" />
+
+            </FrameLayout>
+
+
+            <!-- 当广告是视频广告时，倒计时view-->
+            <TextView
+                android:id="@+id/count_down"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentTop="true"
+                android:text="广告也精彩：%d秒"
+                android:visibility="gone" />
+
+            <!-- 视频在加载过程中显示的进度条 -->
+
+            <!-- 字幕 -->
+            <TextView
+                android:id="@+id/srt"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:layout_alignParentBottom="true"
+                android:gravity="bottom|center_horizontal" />
+
+            <!--<ProgressBar
+                android:id="@+id/loadingprogress"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:visibility="visible"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"/>-->
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_bottom_layout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/rl"
+            android:orientation="vertical">
+
+            <cn.net.dingwei.myView.PagerSlidingTabStrip
+                android:id="@+id/pagerSlidingTabStrip"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/white"
+                app:pstsDividerColor="@color/light_gray"
+                app:pstsDividerPadding="1dp"
+                app:pstsIndicatorColor="@color/bgcolor_2"
+                app:pstsIndicatorHeight="2dp"
+                app:pstsShouldExpand="true"
+                app:pstsTabBackground="@android:color/transparent"
+                app:pstsTabPaddingLeftRight="20dp"
+                app:pstsUnderlineHeight="2dp"
+                app:selectedTabTextColor="@color/bgcolor_2" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

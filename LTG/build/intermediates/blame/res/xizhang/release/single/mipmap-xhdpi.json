@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_slider_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\mipmap-xhdpi\\switch_slider_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_frame.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\mipmap-xhdpi\\switch_frame.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_state_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\mipmap-xhdpi\\switch_state_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_state_mask.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\mipmap-xhdpi\\switch_state_mask.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_state_disable.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\mipmap-xhdpi\\switch_state_disable.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\mipmap-xhdpi\\switch_slider_disable.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\mipmap-xhdpi\\switch_slider_disable.png"
+    }
+]

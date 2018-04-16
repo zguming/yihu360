@@ -1,0 +1,4 @@
+#Mon Apr 16 16:20:07 CST 2018
+base.0=F\:\\yihu360\\LTG\\build\\intermediates\\transforms\\dexMerger\\yihu360\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex

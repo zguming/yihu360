@@ -1,0 +1,7 @@
+#Fri Dec 15 09:44:46 CST 2017
+base.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\yihu360\\debug\\folders\\1000\\10000\\instant-run_6891aeac281f81ae5d5e13a80546cced6ef3f291
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\yihu360\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1097b706cd80453d8e203c6160a8f8f3f4965447\\classes.dex
+base.1=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\yihu360\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1097b706cd80453d8e203c6160a8f8f3f4965447
+file.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\yihu360\\debug\\folders\\1000\\10000\\instant-run_6891aeac281f81ae5d5e13a80546cced6ef3f291\\classes.dex

@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_share_transparent_corner.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_share_transparent_corner.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_location_ic.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_location_ic.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_button_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_button_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sms_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sms_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_down_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\ios_diaglo_down_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_back_bt.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_back_bt.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\stroke_color_white.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\stroke_color_white.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_at_button.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_at_button.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight0.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight0.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_google.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_google.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_nav_bar_bg.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_nav_bar_bg.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\person_vipbutton_click.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\person_vipbutton_click.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight_bak.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight_bak.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_window_shadow_pad.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_window_shadow_pad.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\uvv_progress_rotate.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\universalvideoview\\build\\intermediates\\bundles\\default\\res\\drawable\\uvv_progress_rotate.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\alert_dialog_long_btn.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\alert_dialog_long_btn.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\bdp_update_bg_dialog_btn.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\bdp_update_bg_dialog_btn.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_bind_bg.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_bind_bg.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_shareboard_item_background.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_shareboard_item_background.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\bdp_update_progress_download.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\bdp_update_progress_download.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_location_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_location_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\iso_button_click_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\iso_button_click_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\person_center_button.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\person_center_button.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight1.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight1.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sina_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sina_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_down_white.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\ios_diaglo_down_white.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_login_pressed.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_login_pressed.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\stroke_color_light_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\stroke_color_light_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\record_button_b.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\record_button_b.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\dialog.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_douban_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_douban_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\bdp_update_bg_dialog_content.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\bdp_update_bg_dialog_content.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\play_seekbar_progress.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\play_seekbar_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_qq_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_qq_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_follow_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_follow_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\record_button_start.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\record_button_start.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\stroke_color_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\stroke_color_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\progressbar_color.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\progressbar_color.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_right_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_right_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight2.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight2.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_right_bt.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_right_bt.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_action_back_selected.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_action_back_selected.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_right_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\ios_diaglo_right_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_gmail_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_gmail_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_search_icon.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_search_icon.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_left_pressed.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_left_pressed.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_location_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_location_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sidebar_selected.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sidebar_selected.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_fetch_image.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_fetch_image.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\alert_dialog_left_btn.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\alert_dialog_left_btn.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_grey_blue.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_grey_blue.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_at_selected.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_at_selected.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\person_vip_right2.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\person_vip_right2.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_login.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_login.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_tx_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_tx_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_qzone_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_qzone_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\mycollect_and_error_progress.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\mycollect_and_error_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\stroke.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\stroke.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_shape_solid_black.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_shape_solid_black.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_oauth_check_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_oauth_check_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\circle_bg2.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\circle_bg2.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_action_back.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_action_back.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_login_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_login_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\iso_button_click_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\iso_button_click_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight_bak1.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight_bak1.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\touch_click.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\touch_click.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\f_ios_load_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\f_ios_load_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_grey.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_grey.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\f_ios_load.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\f_ios_load.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\bdp_update_bg_dialog_title.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\bdp_update_bg_dialog_title.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_renren_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_renren_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_facebook.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_facebook.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_douban_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_douban_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_twitter.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_twitter.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_qq_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_qq_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_follow_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_follow_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_left_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_left_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_follow_check.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_follow_check.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\kaodian_touch_click.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\kaodian_touch_click.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_red_blue.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_red_blue.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\progress_anim.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\progress_anim.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\vp_status_loading.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\vp_status_loading.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\alert_dialog_right_btn.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\alert_dialog_right_btn.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_wechat_gray.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_wechat_gray.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\record_button_f.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\record_button_f.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_light_bar_bg.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_light_bar_bg.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_wxcircle.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_renren_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_renren_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\dialog_radius.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\dialog_radius.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_wxcircle_gray.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_wxcircle_gray.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_share_to_button.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_share_to_button.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\record_button_stop.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\record_button_stop.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_white_blue.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_white_blue.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\sample_footer_loading_progress.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\baserecycler\\build\\intermediates\\bundles\\default\\res\\drawable\\sample_footer_loading_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_wechat.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\button_radius_dialog.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\button_radius_dialog.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\progressbar.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_oauth_check_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_oauth_check_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\vp_play_complete_selector.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\vp_play_complete_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\touch_click_wite.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\touch_click_wite.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\button_radius.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\button_radius.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\stroke_color_white_click.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\stroke_color_white_click.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sms_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sms_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\person_vip_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\person_vip_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\circle_white.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\circle_white.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\guide_button_white_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\guide_button_white_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sidebar_selector.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sidebar_selector.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_gmail_on.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_gmail_on.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\home_progress.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\home_progress.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_white.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_white.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_tx_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_tx_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\iso_button_click_down.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\iso_button_click_down.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_button_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_button_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_right_bt_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_right_bt_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\radius_white_10dip.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\radius_white_10dip.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\vp_playprogress_seek_drawable.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\vp_playprogress_seek_drawable.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_oauth_check.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_oauth_check.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\uvv_star_play_progress_seek.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\universalvideoview\\build\\intermediates\\bundles\\default\\res\\drawable\\uvv_star_play_progress_seek.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_left_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\ios_diaglo_left_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\selector_switch_state.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\selector_switch_state.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\image_tiel_radius.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\image_tiel_radius.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_refersh.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_refersh.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sidebar_normal.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sidebar_normal.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_shape_solid_grey.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_shape_solid_grey.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\background_tab.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\full_sight3.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\full_sight3.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_x_button.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_x_button.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_default_avatar.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_default_avatar.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\selector_switch_slider.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\selector_switch_slider.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_right_white.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\ios_diaglo_right_white.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_blue.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_blue.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_sina_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_sina_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\button_radius_bg2_wait.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\button_radius_bg2_wait.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_button_red.9.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_button_red.9.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\white_radius.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\white_radius.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_at_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_at_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_tab_right_pressed.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_tab_right_pressed.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_action_back_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_action_back_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\guide_button_white_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\guide_button_white_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_back_bt_normal.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_back_bt_normal.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_qzone_off.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_qzone_off.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\sample_footer_loading.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\baserecycler\\build\\intermediates\\bundles\\default\\res\\drawable\\sample_footer_loading.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\ios_diaglo_left_white.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\ios_diaglo_left_white.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_back_bt_selected.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_back_bt_selected.png"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\person_vip_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\person_vip_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\progressbar_video.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\progressbar_video.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\vp_playprogress_seek_thumb.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\drawable\\vp_playprogress_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\sidebar_background.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\sidebar_background.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\xizhang\\release\\drawable\\umeng_socialize_title_right_bt_selected.png",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\Xizhang\\res\\drawable\\umeng_socialize_title_right_bt_selected.png"
+    }
+]

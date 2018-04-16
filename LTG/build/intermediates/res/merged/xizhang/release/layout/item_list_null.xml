@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+     >
+     <LinearLayout
+        android:id="@+id/linear_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/touch_click_wite"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingBottom="10dip"
+        android:paddingTop="10dip"
+        android:visibility="gone" >
+         <TextView
+            android:id="@+id/text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingLeft="10dip"
+            android:text="退出登录"
+            android:textSize="14sp" />
+        </LinearLayout>
+    <TextView
+        	android:id="@+id/textview"
+        	android:layout_width="fill_parent"
+        	android:layout_height="20dip" 
+        /><!--占位置而已  -->
+    <TextView 
+        android:id="@+id/buttom_xian"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@color/gray"/>
+	<TextView
+        	android:id="@+id/textview_hint"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content" 
+        	android:gravity="center"
+        	android:textSize="12sp"
+        	android:visibility="gone"
+        />
+</LinearLayout>

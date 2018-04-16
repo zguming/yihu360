@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_gravity="top"
+        android:background="@drawable/vp_top" >
+
+        <!-- 切换到竖屏按钮 -->
+
+        <ImageView
+            android:id="@+id/back_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dip"
+            android:src="@drawable/vp_back" />
+
+        <!-- 视频标题 -->
+
+        <TextView
+            android:id="@+id/videoTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:layout_toRightOf="@id/back_button"
+            android:ellipsize="end"
+            android:gravity="center|left"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="17sp"
+            android:textColor="@android:color/white"/>
+    </RelativeLayout>
+    <!-- 尾部 -->
+    <RelativeLayout
+        android:id="@+id/bottom"
+        android:layout_width="match_parent"
+        android:layout_height="60dip"
+        android:layout_gravity="bottom"
+        android:background="@drawable/vp_bottom"
+        android:gravity="center_vertical" >
+
+        <Button
+            android:id="@+id/full_screen"
+            android:layout_width="@dimen/vp_player_fullscreen_width"
+            android:layout_height="@dimen/vp_player_fullscreen_width"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="15dp"
+            android:background="@drawable/vp_fullscreen" />
+    </RelativeLayout>
+
+</FrameLayout>

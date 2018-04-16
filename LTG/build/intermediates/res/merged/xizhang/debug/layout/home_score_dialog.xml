@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:imagecontrol="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/framelayout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:id="@+id/score_linear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/wite"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingTop="20dip"
+        android:paddingBottom="20dip"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+       >
+
+        <TextView
+            android:id="@+id/score_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.3"
+            android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/score_btn1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/wite"
+            android:padding="8dip"
+             android:layout_marginTop="10dip"
+             android:textSize="15sp" />
+
+        <Button
+            android:id="@+id/score_btn2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/wite"
+            android:padding="8dip" 
+             android:layout_marginTop="10dip"
+             android:textSize="15sp"/>
+
+        <Button
+            android:id="@+id/score_btn3"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/wite"
+            android:padding="8dip"
+            android:layout_marginTop="10dip"
+            android:textSize="15sp"/>
+    </LinearLayout>
+
+</LinearLayout>

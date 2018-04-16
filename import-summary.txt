@@ -1,0 +1,132 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* ic_launcher-web.png
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+gson-2.2.2.jar => com.google.code.gson:gson:2.2.2
+
+Potentially Missing Dependency:
+-------------------------------
+When we replaced the following .jar files with a Gradle dependency, we
+inferred the dependency version number from the filename. This
+specific version may not actually be available from the repository.
+If you get a build error stating that the dependency is missing, edit
+the version number to for example "+" to pick up the latest version
+instead. (This may require you to update your code if the library APIs
+have changed.)
+
+gson-2.2.2.jar => version 2.2.2 in com.google.code.gson:gson:2.2.2
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+appcompat-v7 => [com.android.support:appcompat-v7:20.+]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => lTG_qihuo\src\main\AndroidManifest.xml
+* assets\ => lTG_qihuo\src\main\assets
+* libs\aliyun-oss-sdk-android-2.0.3.jar => lTG_qihuo\libs\aliyun-oss-sdk-android-2.0.3.jar
+* libs\android-async-http-1.4.8.jar => lTG_qihuo\libs\android-async-http-1.4.8.jar
+* libs\arm64-v8a\libBugly.so => lTG_qihuo\src\main\jniLibs\arm64-v8a\libBugly.so
+* libs\arm64-v8a\libjpush206.so => lTG_qihuo\src\main\jniLibs\arm64-v8a\libjpush206.so
+* libs\arm64-v8a\liblocSDK6a.so => lTG_qihuo\src\main\jniLibs\arm64-v8a\liblocSDK6a.so
+* libs\armeabi-v7a\libBugly.so => lTG_qihuo\src\main\jniLibs\armeabi-v7a\libBugly.so
+* libs\armeabi-v7a\libjpush206.so => lTG_qihuo\src\main\jniLibs\armeabi-v7a\libjpush206.so
+* libs\armeabi-v7a\liblocSDK6a.so => lTG_qihuo\src\main\jniLibs\armeabi-v7a\liblocSDK6a.so
+* libs\armeabi\libbase64encoder_v1_4.so => lTG_qihuo\src\main\jniLibs\armeabi\libbase64encoder_v1_4.so
+* libs\armeabi\libBugly.so => lTG_qihuo\src\main\jniLibs\armeabi\libBugly.so
+* libs\armeabi\libjpush206.so => lTG_qihuo\src\main\jniLibs\armeabi\libjpush206.so
+* libs\armeabi\liblocSDK4d.so => lTG_qihuo\src\main\jniLibs\armeabi\liblocSDK4d.so
+* libs\armeabi\liblocSDK6a.so => lTG_qihuo\src\main\jniLibs\armeabi\liblocSDK6a.so
+* libs\armeabi\libMD5_v1.so => lTG_qihuo\src\main\jniLibs\armeabi\libMD5_v1.so
+* libs\BaiduLBS_Android.jar => lTG_qihuo\libs\BaiduLBS_Android.jar
+* libs\BDAutoUpdateSDK_20150605_V1.2.0.jar => lTG_qihuo\libs\BDAutoUpdateSDK_20150605_V1.2.0.jar
+* libs\bugly_1.2.6_release.jar => lTG_qihuo\libs\bugly_1.2.6_release.jar
+* libs\httpmime-4.1.3.jar => lTG_qihuo\libs\httpmime-4.1.3.jar
+* libs\jpush-android-2.0.6.jar => lTG_qihuo\libs\jpush-android-2.0.6.jar
+* libs\jzlib1.1.3.jar => lTG_qihuo\libs\jzlib1.1.3.jar
+* libs\need_lib.jar => lTG_qihuo\libs\need_lib.jar
+* libs\okhttp-2.7.0.jar => lTG_qihuo\libs\okhttp-2.7.0.jar
+* libs\okio-1.6.0.jar => lTG_qihuo\libs\okio-1.6.0.jar
+* libs\org.apache.http.legacy.jar => lTG_qihuo\libs\org.apache.http.legacy.jar
+* libs\patchupdate.jar => lTG_qihuo\libs\patchupdate.jar
+* libs\SocialSDK_email.jar => lTG_qihuo\libs\SocialSDK_email.jar
+* libs\SocialSDK_QQZone_1.jar => lTG_qihuo\libs\SocialSDK_QQZone_1.jar
+* libs\SocialSDK_QQZone_2.jar => lTG_qihuo\libs\SocialSDK_QQZone_2.jar
+* libs\SocialSDK_QQZone_3.jar => lTG_qihuo\libs\SocialSDK_QQZone_3.jar
+* libs\SocialSDK_Sina.jar => lTG_qihuo\libs\SocialSDK_Sina.jar
+* libs\SocialSDK_sms.jar => lTG_qihuo\libs\SocialSDK_sms.jar
+* libs\SocialSDK_WeiXin_1.jar => lTG_qihuo\libs\SocialSDK_WeiXin_1.jar
+* libs\SocialSDK_WeiXin_2.jar => lTG_qihuo\libs\SocialSDK_WeiXin_2.jar
+* libs\umeng_social_sdk.jar => lTG_qihuo\libs\umeng_social_sdk.jar
+* libs\universal-image-loader-1.9.4.jar => lTG_qihuo\libs\universal-image-loader-1.9.4.jar
+* libs\x86\libbase64encoder_v1_4.so => lTG_qihuo\src\main\jniLibs\x86\libbase64encoder_v1_4.so
+* libs\x86\libBugly.so => lTG_qihuo\src\main\jniLibs\x86\libBugly.so
+* libs\x86\libjpush206.so => lTG_qihuo\src\main\jniLibs\x86\libjpush206.so
+* libs\x86\liblocSDK6a.so => lTG_qihuo\src\main\jniLibs\x86\liblocSDK6a.so
+* libs\x86\libMD5_v1.so => lTG_qihuo\src\main\jniLibs\x86\libMD5_v1.so
+* libs\x86_64\libBugly.so => lTG_qihuo\src\main\jniLibs\x86_64\libBugly.so
+* libs\x86_64\libjpush206.so => lTG_qihuo\src\main\jniLibs\x86_64\libjpush206.so
+* libs\x86_64\liblocSDK6a.so => lTG_qihuo\src\main\jniLibs\x86_64\liblocSDK6a.so
+* libs\zxing.jar => lTG_qihuo\libs\zxing.jar
+* res\ => lTG_qihuo\src\main\res\
+* src\ => lTG_qihuo\src\main\java\
+* show_head_toast_bg.9.PNG => show_head_toast_bg.9.png
+
+Missing Android Support Repository:
+-----------------------------------
+Some useful libraries, such as the Android Support Library, are
+installed from a special Maven repository, which should be installed
+via the SDK manager.
+
+It looks like this library is missing from your SDK installation at:
+null
+
+To install it, open the SDK manager, and in the Extras category,
+select "Android Support Repository". You may also want to install the
+"Google Repository" if you want to use libraries like Google Play
+Services.
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

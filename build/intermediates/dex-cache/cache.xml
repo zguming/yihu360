@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\txrtmpsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f85dcd4cc2ff9bb72a1166c1701a30b31adee704">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\txrtmpsdk_9fca395f384bd32436fb71bed103e8bfdde58ee9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\sup.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c91ea8b0ec22f153e3153bf03f924690b5acca0f">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\xizhang\debug\folders\1000\2\sup_4afa7de8597bfcefeef11520324614a3a799acc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_WeiXin_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="47f4993168154fa73377d7470b9f6887d48a8023">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_WeiXin_1_7d108f5ce11e2b766b19c92ec22d964b60944347\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\umeng_social_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4688dc44ccef22b7f057301ee6abbe187a8d35ea">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\umeng_social_sdk_fa62cee24a09dd43c15fc0e277aae8c60d60cade\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\qalsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="95afb04933268696767026bfd2f6e964890db910">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\qalsdk_314f7a6501702f397f9459903a022677c20100ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\blockupload1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba914b48672a9b42cd77c45fbb132f588b13e485">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\blockupload1.0_ac4e750a8695dc7506f64f4604dcaff3264bd1bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\need_lib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58de9ecfba229dbb2c3eb3f45dbe284ba58100ea">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\need_lib_363cac6fd9a508a56e2af87e12a71e1a3dc39c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\exoplayerlib.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4234a0fb485418a37af6d347fbd4fb84a45379">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\exoplayerlib_9835d48f29efa5428e71cd6a44ece428edcc6cc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_QQZone_1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_QQZone_1_540b729e7e67c0c3267c98a2e4cd928f11e4b6eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\incremental-classes\yihu360\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbab443cd14b1e6949a90d49154131f5afaa21c2">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\10000\instant-run-bootstrap_1097b706cd80453d8e203c6160a8f8f3f4965447\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_WeiXin_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b651be701cb256e3972e7c5a07119f26bb7b44a4">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_WeiXin_2_5265cb2c2c669c0f1232b9bbf7fe4b3f5d3da296\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\patchupdate.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="311e10769e9bf8db15f166b8196e8c18b6238c27">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\patchupdate_91d173adb506b5953b55f982a0a86108dcb341f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\imsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="415e34ae6f930fc5fdeac5294d4e205da68725da">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\imsdk_724a398aba8000e103008cd0086143c15ba9a0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="23eb3eaddd3cdd2169fce048186d694a5867093a">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\BaiduLBS_Android_4d772ac7dd69d35bb39b650fa9694b186740ed18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\org.apache.http.legacy.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa331331b626ee78c52bea16ce1e34b39e666ce5">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\org.apache.http.legacy_0bc179939389a2ee8d3f141ebb020886e04fe51c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6111ea83a82b1da884a6651a0cc26fa540c048bb">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\okio-1.6.0_6853fcc205a956992d66780141aad5b85fb27d2e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\httpmime-4.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\httpmime-4.1.3_16390d6b030775f4ad977590ef18c0aa8f7222b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_Sina.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a6eee0ece63ba5e74411057d09eda1a5a01ca940">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_Sina_418d9e52f9b81779a98074fc4e9a64bc1acde31f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\mobilepb.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a5e62566e5023a4497edcb883324e82771c8c9fb">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\mobilepb_bdad1bacacc2385d20f8b7c8a27b4fa2338a97ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\tls_sdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ad28326b7de59008d56b6fb9900e08395387055">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\tls_sdk_a894694242b641f2c719155c09b77774eb34d4ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_sms.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae93280308ce10442ffb9c8c716977940471dc7a">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_sms_cebcdde0add7c5b652dcfb6d4a3ddba2f512af44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\incremental-classes\xizhang\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9db213288ab13565fce96d5719f69a5d69bfe9b">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\xizhang\debug\folders\1000\10000\instant-run-bootstrap_8df6d09a1d7372bd886cb039d757df964ed135d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\incremental-runtime-classes\yihu360\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\10000\instant-run_6891aeac281f81ae5d5e13a80546cced6ef3f291\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="934e220d321b27272ff107393ca45b56b5362fe4">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\wup-1.0.0-SNAPSHOT_9385108ec4a039f5d60cfb016b7991d2795758b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\zxing_54142b1eb724ab6ec07290aac04928d6238c37ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_QQZone_3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="931ab461b91c2a2fd5c697e7f622cdca8c2b3ac5">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_QQZone_3_e1cdd73ad0bcca231ba3a40941370aa68d144c56\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_QQZone_2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a69b33758dcba3ef519cbd4b6c8af5f41603c4f">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_QQZone_2_bae7ef58c21b3dbb48bbcf992b3b854612d60af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\android-async-http-1.4.8_0742dfaa66c04d185bb0ee2099424e7ae123bcda\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\soload.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75fac6d5abe785d6658b93e008f7ef77b3fcfdc0">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\soload_64188894ea39da1b18e03d13067059d9fbc99bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\sha1utils.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e669e001e1e024b2898756c55f5cd78195534d3e">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\sha1utils_0093c6d9aff50e352a56aa15c1e685f64236ef15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\aliyun-oss-sdk-android-2.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="896cd2113cbce7e44166899e541742c5ba301cd1">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\aliyun-oss-sdk-android-2.0.3_0d859b5f73f87931c4ec2d210df810983fbe51e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\cos-sdk-android.1.4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="abb1cf208e74ce5ee8668fac74621d7aae11bef2">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\cos-sdk-android.1.4.3.6_3b3525829f1b9d0a7ad1c3521775a17ec2a8919c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\SocialSDK_email.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3035cf2249ebc09a5b5204362a8cc0a653f9589">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\SocialSDK_email_6256845c47cba3c9f282bd6fa1c2f1dd33cb0154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\jpush-android-2.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="970e671dce88c41ca0b207e7f5383dae2a2253ce">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\jpush-android-2.0.6_df614fbae079eb81d8316b209a683c5e5f023b9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\jzlib1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="294e2627c18c3828cf96b0eed189ac18c74d2987">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\jzlib1.1.3_aea25d593b17ae919253b3360e571fe78e629953\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\universal-image-loader-1.9.4_09949aadc58660582f312b580c1bacc7b27789d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c12ebe1a732c11868d0583fa906bcaa7c7b3199e">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\okhttp-3.2.0_f2094713ac029a380302631657f209e4977fb9dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\incremental-runtime-classes\xizhang\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\xizhang\debug\folders\1000\10000\instant-run_4ac58a554ddcdd97b0b7edf85b9911b3d868d903\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\jikmediawidget.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1f321a5ef2d00725ae15c69dd0bd8c427f33a37c">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\jikmediawidget_4a65571b111e352b59ba2745cea55ed0de5355e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\libs\ugcupload.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="689684988878b9767c8b3bcfc20db81b165b85a4">
+        <dex dex="E:\android\zhidian\mingtiku_liantigou_Andriod\mingtiku_liantigou_Andriod\LTG\build\intermediates\transforms\dex\yihu360\debug\folders\1000\2\ugcupload_2df8ed00a1356b012ff7fb61c0a64fad961cded8\classes.dex" />
+    </item>
+
+</items>

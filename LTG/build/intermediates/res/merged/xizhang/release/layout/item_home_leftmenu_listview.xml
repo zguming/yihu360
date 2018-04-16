@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <LinearLayout
+            android:id="@+id/itembg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/touch_click_wite"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingLeft="15dip" >
+
+            <ImageView
+                android:id="@+id/imageview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingBottom="15dip"
+                android:paddingTop="15dip"
+                android:src="@drawable/home_leftmenu_image" />
+
+            <TextView
+                android:id="@+id/text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxEms="8"
+                android:paddingBottom="15dip"
+                android:paddingLeft="20dip"
+                android:paddingTop="15dip"
+                android:singleLine="true"
+                android:text="考试下的科目"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/home_leftmenu_jindu"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_gravity="right"
+            android:gravity="center_vertical"
+            android:padding="15dip" >
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="70"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/baifenhao1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/text1"
+                android:text="%"
+                android:textSize="15sp" />
+        </RelativeLayout>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/xian"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:background="@color/black" />
+
+</LinearLayout>

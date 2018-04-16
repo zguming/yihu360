@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\push_up_in.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\push_up_in.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\nullanim.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\nullanim.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\progress_anim.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\progress_anim.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\fade.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_out_top.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_in_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_in_bottom.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_out_left.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\fade_hide_200ms.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\fade_hide_200ms.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\from_top_to_down.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\from_top_to_down.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\fade_show_200ms.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\fade_show_200ms.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\push_down_out.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\push_down_out.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_slide_in_from_bottom.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\out_xiaoguo.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\out_xiaoguo.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_in_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_fade_in.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_out_bottom.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\progress_anim_gray.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\progress_anim_gray.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\xiaoguo.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\xiaoguo.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator.USER-20160616ZI\\.android\\build-cache\\ffa43867bf15fb62725f0ef9c89e20784de770be\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\slide_out_right.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_shareboard_animation_out.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_slide_out_from_bottom.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_fade_out.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\res\\merged\\yihu360\\release\\anim\\umeng_socialize_shareboard_animation_in.xml",
+        "source": "E:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    }
+]

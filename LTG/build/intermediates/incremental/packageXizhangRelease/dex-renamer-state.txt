@@ -1,0 +1,7 @@
+#Fri Dec 29 15:25:53 CST 2017
+base.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\release\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\release\\folders\\1000\\1f\\main\\classes.dex
+base.1=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\release\\folders\\1000\\1f\\main
+file.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\release\\folders\\1000\\1f\\main\\classes2.dex

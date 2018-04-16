@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lianxi_bg"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/linear_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="200dip"
+        android:orientation="vertical"
+        android:visibility="gone" >
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <include layout="@layout/sub_layout_title" />
+
+        <TextView
+            android:id="@+id/text_refresh"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text="加载失败\n点击屏幕立即刷新"
+            android:textColor="@color/fontcolor_3"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <cn.net.dingwei.myView.MyScrollView
+            android:id="@+id/scroll"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:scrollbars="none"
+            android:visibility="gone" >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/linear_top_bg"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingBottom="10dp" >
+
+                    <ImageView
+                        android:id="@+id/jinjie_image"
+                        android:layout_width="120dp"
+                        android:layout_height="120dp"
+                        android:layout_marginLeft="15dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical"
+                            android:paddingLeft="10dp"
+                            android:paddingRight="15dp" >
+
+                            <TextView
+                                android:id="@+id/text_title"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:enabled="true"
+                                android:maxLines="2"
+                                android:textColor="@color/wite"
+                                android:textSize="15sp" />
+
+                            <TextView
+                                android:id="@+id/text_content"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5dp"
+                                android:alpha="0.7"
+                                android:enabled="true"
+                                android:maxLines="3"
+                                android:text=""
+                                android:textColor="@color/wite"
+                                android:textSize="12sp" />
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:layout_marginTop="5dp"
+                                android:layout_weight="1"
+                                android:gravity="bottom"
+                                android:orientation="vertical" >
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:alpha="0.7"
+                                        android:text="题目数:"
+                                        android:textColor="@color/wite"
+                                        android:textSize="12sp" />
+
+                                    <TextView
+                                        android:id="@+id/text_sum"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="10dp"
+                                        android:alpha="0.7"
+                                        android:text="0道"
+                                        android:textColor="@color/wite"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="vertical" >
+
+                                    <LinearLayout
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_weight="1"
+                                        android:orientation="horizontal" >
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:alpha="0.7"
+                                            android:text="已练习:"
+                                            android:textColor="@color/wite"
+                                            android:textSize="12sp" />
+
+                                        <TextView
+                                            android:id="@+id/text_mysum"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginLeft="10dp"
+                                            android:alpha="0.7"
+                                            android:text=" 0道"
+                                            android:textColor="@color/wite"
+                                            android:textSize="12sp" />
+                                    </LinearLayout>
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/linear_time"
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal" >
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:alpha="0.7"
+                                        android:text="有效期:"
+                                        android:textColor="@color/wite"
+                                        android:textSize="12sp" />
+
+                                    <TextView
+                                        android:id="@+id/text_time"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginLeft="10dp"
+                                        android:alpha="0.7"
+                                        android:text="2016­10­31"
+                                        android:textColor="@color/wite"
+                                        android:textSize="12sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                    <!-- 按钮 -->
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/top_bg"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingBottom="10dp"
+                    android:paddingLeft="15dp"
+                    android:paddingRight="15dp" >
+
+                    <Button
+                        android:id="@+id/btn_left"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/bgcolor_1"
+                        android:paddingBottom="5dip"
+                        android:paddingLeft="15dip"
+                        android:paddingRight="15dip"
+                        android:paddingTop="5dip"
+                        android:text="套卷练习"
+                        android:textColor="@color/wite"
+                        android:textSize="13sp" />
+
+                    <Button
+                        android:id="@+id/btn_right"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/wite"
+                        android:paddingBottom="5dip"
+                        android:paddingLeft="15dip"
+                        android:paddingRight="15dip"
+                        android:paddingTop="5dip"
+                        android:text="错题巩固"
+                        android:textColor="@color/bgcolor_2"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="1px"
+                    android:background="@color/color_4" />
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:orientation="vertical" >
+
+                    <FrameLayout
+                        android:id="@+id/framelayout0"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" >
+
+                        <cn.net.dingwei.myView.MyListView
+                            android:id="@+id/listview_left"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:divider="@color/color_4"
+                            android:dividerHeight="1px" >
+                        </cn.net.dingwei.myView.MyListView>
+
+                        <TextView
+                            android:id="@+id/no_data"
+                            android:layout_width="fill_parent"
+                            android:layout_height="100dp"
+                            android:background="@color/wite"
+                            android:gravity="center"
+                            android:text="暂无数据"
+                            android:textColor="@color/gray"
+                            android:textSize="13sp"
+                            android:visibility="gone" />
+                    </FrameLayout>
+
+                    <FrameLayout
+                        android:id="@+id/framelayout1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent" >
+
+                        <LinearLayout
+                            android:id="@+id/linear_buttom_right"
+                            android:layout_width="fill_parent"
+                            android:layout_height="fill_parent"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:background="@color/wite"
+                                android:orientation="horizontal"
+                                android:paddingBottom="20dip"
+                                android:paddingLeft="15dip"
+                                android:paddingRight="15dip"
+                                android:paddingTop="20dip" >
+
+                                <LinearLayout
+                                    android:id="@+id/linear1"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="true"
+                                    android:gravity="center"
+                                    android:orientation="vertical"
+                                    android:padding="10dip" >
+
+                                    <TextView
+                                        android:id="@+id/text1_number"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="866"
+                                        android:textColor="@color/wite"
+                                        android:textSize="20sp" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="待消灭"
+                                        android:textColor="@color/wite"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/linear2"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="true"
+                                    android:gravity="center"
+                                    android:orientation="vertical"
+                                    android:padding="10dip" >
+
+                                    <TextView
+                                        android:id="@+id/text2_number"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="866"
+                                        android:textColor="@color/wite"
+                                        android:textSize="20sp" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="将消灭"
+                                        android:textColor="@color/wite"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/linear3"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:clickable="true"
+                                    android:gravity="center"
+                                    android:orientation="vertical"
+                                    android:padding="10dip" >
+
+                                    <TextView
+                                        android:id="@+id/text3_number"
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="866"
+                                        android:textColor="@color/wite"
+                                        android:textSize="20sp" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:text="已消灭"
+                                        android:textColor="@color/wite"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+
+                            <View
+                                android:layout_width="fill_parent"
+                                android:layout_height="10dp"
+                                android:background="@color/lianxi_bg" />
+
+                            <cn.net.dingwei.myView.MyListView
+                                android:id="@+id/listview_right"
+                                android:layout_width="fill_parent"
+                                android:layout_height="fill_parent"
+                                android:divider="@color/lianxi_bg"
+                                android:dividerHeight="10dip"
+                                android:scrollbars="none" >
+                            </cn.net.dingwei.myView.MyListView>
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/no_data1"
+                            android:layout_width="fill_parent"
+                            android:layout_height="100dp"
+                            android:background="@color/wite"
+                            android:gravity="center"
+                            android:text="暂无数据"
+                            android:textColor="@color/gray"
+                            android:textSize="13sp"
+                            android:visibility="gone" />
+                    </FrameLayout>
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/text_change"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center_horizontal"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:textColor="@color/fontcolor_3"
+                    android:textSize="13sp" />
+            </LinearLayout>
+        </cn.net.dingwei.myView.MyScrollView>
+    </LinearLayout>
+
+</FrameLayout>

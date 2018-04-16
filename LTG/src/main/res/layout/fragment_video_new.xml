@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lianxi_bg"
+    android:paddingBottom="45dip"
+    android:paddingTop="45dp"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignBottom="@+id/rl"
+        android:orientation="vertical">
+
+        <cn.net.dingwei.myView.PagerSlidingTabStrip
+            android:id="@+id/pagerSlidingTabStrip"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:background="@android:color/white"
+            app:pstsDividerColor="@color/light_gray"
+            app:pstsDividerPadding="1dp"
+            app:pstsIndicatorColor="@color/bgcolor_2"
+            app:pstsIndicatorHeight="2dp"
+            app:pstsShouldExpand="true"
+            app:pstsTabBackground="@android:color/transparent"
+            app:pstsTabPaddingLeftRight="20dp"
+            app:pstsUnderlineHeight="2dp"
+            app:selectedTabTextColor="@color/bgcolor_2"
+            />
+
+        <cn.net.dingwei.myView.NoScorllViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"></cn.net.dingwei.myView.NoScorllViewPager>
+    </LinearLayout>
+</LinearLayout>

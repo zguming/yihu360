@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center" >
+
+        <include
+            layout="@layout/dialog" />
+
+        <!--
+           <ProgressBar
+            android:id="@+id/progressBar1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:indeterminateDrawable="@drawable/home_progress"/>
+        -->
+
+
+        <!-- android:indeterminateDrawable="@drawable/home_progress" -->
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/shuaxin_linear"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/shuaxin_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dip"
+            android:text="加载失败，点击立即刷新"
+            android:textColor="@color/shuaxin_textcolor" />
+
+        <Button
+            android:id="@+id/shuaxin_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/button_radius"
+            android:text="立即刷新"
+            android:textColor="@color/wite" />
+    </LinearLayout>
+
+</FrameLayout>

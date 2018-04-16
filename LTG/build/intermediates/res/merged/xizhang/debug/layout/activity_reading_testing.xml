@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/sub_layout_testing_answer_title" />
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="45dip" />
+
+    <Button
+        android:id="@+id/buttom_button"
+        android:layout_width="fill_parent"
+        android:layout_height="45dip"
+        android:layout_gravity="bottom"
+        android:alpha="0.7"
+        android:text="开始"
+        android:textSize="15sp" />
+
+    <FrameLayout
+        android:id="@+id/pause_ui_framelayout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/lianxi_bg"
+        android:visibility="gone" >
+
+        <TextView
+            android:id="@+id/pause_title"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:background="@color/button_color"
+            android:clickable="true"
+            android:gravity="center"
+            android:text="暂停中"
+            android:textColor="@color/wite"
+            android:textSize="17sp" />
+
+        <LinearLayout
+            android:id="@+id/linear_Left_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="45dip"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            android:paddingBottom="5dip"
+            android:paddingLeft="15dip"
+            android:paddingRight="5dip"
+            android:paddingTop="5dip" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/title_black" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_pause"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical"
+            android:paddingTop="45dip" >
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/pause_button"
+            android:layout_width="fill_parent"
+            android:layout_height="45dip"
+            android:layout_gravity="bottom"
+            android:text="继续"
+            android:textSize="15sp" />
+    </FrameLayout>
+
+</FrameLayout>

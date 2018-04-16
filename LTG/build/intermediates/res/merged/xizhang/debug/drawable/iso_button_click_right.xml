@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 手指触碰效果 -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ios_diaglo_right_gray" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/ios_diaglo_right_white"></item>
+	
+</selector>

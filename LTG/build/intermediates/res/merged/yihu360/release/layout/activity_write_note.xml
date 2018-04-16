@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lianxi_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/sub_layout_title" />
+
+    <cn.net.dingwei.myView.MyScrollView
+        android:id="@+id/myScrollview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1px"
+                android:layout_marginTop="20dip"
+                android:background="@color/color_4" />
+
+            <EditText
+                android:id="@+id/editText"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/wite"
+                android:gravity="top"
+                android:hint="请添加您的笔记"
+                android:padding="10dip"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:textColor="@color/fontcolor_3"
+                android:textSize="13sp" 
+                />
+
+          <!--   <Button
+                android:id="@+id/save_note"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="10dip"
+                android:layout_marginTop="15dip"
+                android:background="@color/transparent"
+                android:padding="10dip"
+                android:text="保存笔记"
+                android:textSize="15sp"
+                android:visibility="gone" /> -->
+
+            <LinearLayout
+                android:id="@+id/linear_buttom"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/list_category_title"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/lianxi_bg"
+                    android:paddingBottom="5dip"
+                    android:paddingLeft="10dip"
+                    android:paddingRight="10dip"
+                    android:paddingTop="15dip"
+                    android:text="请选择错误类型"
+                    android:textColor="@color/fontcolor_3"
+                    android:textSize="13sp" />
+
+                <LinearLayout
+                    android:id="@+id/linear_jiucuo"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:background="@drawable/stroke_color_gray"
+                    android:orientation="vertical"
+                    android:padding="10dip" >
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </cn.net.dingwei.myView.MyScrollView>
+
+</LinearLayout>

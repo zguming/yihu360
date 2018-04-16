@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/wite"
+    android:orientation="vertical"
+    >
+    <View
+        android:id="@+id/view_item_jianju"
+        android:layout_width="fill_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/color_4"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/wite"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dip"
+         >
+
+        <LinearLayout
+            android:layout_width="30dip"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/xian1"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="2dip"
+                android:layout_weight="1"
+                android:background="@color/ltgray"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/image_left"
+                android:layout_width="20dip"
+                android:layout_height="20dip"
+                android:src="@drawable/iconfont_jiahao" />
+
+            <View
+                android:id="@+id/xian2"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="2dip"
+                android:layout_weight="1"
+                android:background="@color/ltgray"
+                android:visibility="invisible" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingRight="10dip">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingBottom="10dip"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingTop="10dip" >
+
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="章节"
+                android:textColor="@color/fontcolor_3"
+                android:textSize="13sp" />
+            <TextView
+                android:id="@+id/text_time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="6/70 分钟"
+                android:textColor="@color/ltgray"
+                android:textSize="11sp"
+                android:paddingTop="5dp"/>
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical"
+                    android:orientation="horizontal"
+                    android:paddingTop="5dp"
+                     >
+                    <ProgressBar
+                        android:id="@+id/progressbar"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="fill_parent"
+                        android:layout_height="3dp"
+                        android:max="100"
+                        android:paddingRight="10dip"
+                        android:progress="20"
+                        android:progressDrawable="@drawable/progressbar_video" />
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:gravity="right|center_vertical">
+            <LinearLayout
+                android:id="@+id/linear_shopping"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical"
+                android:paddingLeft="@dimen/margin_10dip"
+                android:paddingRight="@dimen/margin_10dip"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:visibility="gone">
+                <ImageView
+                    android:layout_width="15dip"
+                    android:layout_height="15dip"
+                    android:src="@drawable/shopping_cart"
+                    />
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:singleLine="true"
+                    android:text="购买"
+                    android:textColor="@color/video_shoping"
+                    android:textSize="10sp"
+                    android:paddingLeft="5dp"/>
+            </LinearLayout>
+            <ImageView
+                android:id="@+id/image_play"
+                android:layout_width="30dip"
+                android:layout_height="30dip"
+                android:src="@drawable/video_play"
+                android:padding="5dp"
+                android:visibility="gone"
+               />
+        </LinearLayout>
+            </LinearLayout>
+            <View
+                android:id="@+id/view_buttom_xian"
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:background="@color/color_4"
+                android:visibility="gone"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

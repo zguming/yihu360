@@ -1,0 +1,4 @@
+#Fri Dec 29 15:22:33 CST 2017
+base.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\debug\\folders\\1000\\5\\slice_8
+renamed.0=classes.dex
+file.0=E\:\\android\\zhidian\\mingtiku_liantigou_Andriod\\mingtiku_liantigou_Andriod\\LTG\\build\\intermediates\\transforms\\dex\\xizhang\\debug\\folders\\1000\\5\\slice_8\\classes.dex

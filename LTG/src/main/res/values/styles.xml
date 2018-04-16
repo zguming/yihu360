@@ -1,0 +1,81 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/wite</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+    //夜间
+    <style name="AppTheme.night" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/wite</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:alpha">0.5</item>
+    </style>
+    <!-- 自定义loading dialog -->
+    <style name="loading_dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+
+    <style name="DialogStyle" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:windowBackground"> @android:color/transparent </item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="ShareDialogStyle" parent="@android:style/Widget.ProgressBar.Large">
+        <item name="android:windowBackground"> @android:color/transparent </item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+    <!-- Dialog 弹出与消失动画 -->
+    <style name="PopupAnimation" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/xiaoguo</item>
+        <item name="android:windowExitAnimation">@anim/out_xiaoguo</item>
+    </style>
+	<style name="style_Learning_progress">  
+    <item name="android:textSize">60sp</item>  
+    <item name="android:textColor">@color/wite</item>  
+    <item name="android:textStyle">italic</item> 
+    </style>
+      <!-- 字体 -->
+    <style name="style_font">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/color_3</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="style_video_msg">
+        <item name="android:textSize">13sp</item>
+        <item name="android:textColor">@color/bgcolor_2</item>
+    </style>
+
+    <style name="MediaController_SeekBar" parent="android:Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:indeterminateDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:minHeight">13dip</item>
+        <item name="android:maxHeight">13dip</item>
+        <item name="android:thumb">@drawable/scrubber_control_selector_holo</item>
+        <item name="android:thumbOffset">16dip</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+    <style name="Home_Score_dialog">
+        <item name="android:textColor">@color/home_score_content</item>
+    </style>
+</resources>

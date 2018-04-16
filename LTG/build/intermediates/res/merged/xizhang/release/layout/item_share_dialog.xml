@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/linear_weixin1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@color/share_bg"
+    >
+
+    <ImageView
+        android:id="@+id/image_icon"
+        android:layout_width="36dp"
+        android:layout_height="36dp"
+        android:src="@drawable/share_weixin" />
+
+    <TextView
+        android:id="@+id/text_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="微信好友"
+        android:textColor="@color/fontcolor_3"
+        android:textSize="13sp" />
+</LinearLayout>

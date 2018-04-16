@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/wite"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/note_nubers"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/lianxi_bg"
+        android:paddingBottom="5dip"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+        android:paddingTop="5dip"
+        android:text="共2条笔记"
+        android:textColor="@color/fontcolor_3"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:paddingLeft="15dip"
+        android:paddingRight="15dip"
+        android:background="@drawable/touch_click_wite" >
+
+        <TextView
+            android:id="@+id/text_point"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="10dip"
+            android:text="1"
+            android:textColor="@color/fontcolor_3"
+            android:textSize="13sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="10dip"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dip"
+                android:text="总论>第一章>第二章"
+                android:textColor="@color/fontcolor_3"
+                android:textSize="13sp" />
+
+            <TextView
+                android:id="@+id/content"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="15dip"
+                android:paddingTop="10dip"
+                android:text="笔记内容"
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/time"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dip"
+                android:gravity="right"
+                android:paddingLeft="15dip"
+                android:paddingTop="10dip"
+                android:text="2015-12-28"
+                android:textColor="@color/fontcolor_3"
+                android:textSize="13sp" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="1px"
+                android:background="@color/ltgray"
+                android:layout_marginBottom="1dip" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

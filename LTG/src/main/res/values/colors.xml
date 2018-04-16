@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 下来刷新  上拉加载 -->
+    <color name="listview_color">#f0eff4</color>
+    <color name="answer_dialog_color">#727272</color>
+    <color name="answer_dialog_color1">#9a9a9a</color>
+    <color name="person_gray">#efeff4</color>
+    <color name="person_buttom">#76cebb</color>
+    <color name="vip_kuaidaoqi">#c1c0c0</color>
+    <color name="content_textcolor">#a7a7a7</color>
+    <color name="wite">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray">#808080</color>
+    <color name="ltgray">#cccccc</color>
+    <color name="light_gray">#EAEAEF</color> <!-- 浅灰 -->
+    <color name="item_gray">#BEBEBE</color>
+    <color name="btn_gay">#878787</color>
+    <color name="title_gray">#298f79</color> <!-- 练习   标题字颜色   3b7070   深绿298f79 -->
+    <color name="ios_dialog_xian">#a3a6a6</color> <!-- 浅灰 -->
+    <color name="person_vip_button">#ffb708</color>
+    <color name="red">#FF0000</color>
+    <color name="lianxi_bg">#F7F7F7</color>
+    <color name="transparent">#00000000</color> <!-- 透明 -->
+    <color name="testColor">#f0ff00</color>
+    <color name="listview_item">#BFBFBF</color> <!-- List  Item分割线 -->
+    <color name="Activity_homeChildView_bg">#F4F5F6</color> <!-- 子view背景 -->
+
+    <color name="header_bg_common">#323a45</color>
+    <color name="title_txt_color">#f1f1f3</color>
+    <color name="circle_color">#323a45</color>
+    <color name="ring_color">#14b9d6</color>
+    <color name="shuaxin_textcolor">#626060</color>
+  <color name="button_color">#ae8f13</color>
+    <color name="blue">#0080ff</color>
+   <color name="bgcolor_1">#ae8f13</color>
+    <color name="bgcolor_2">#a59b2c</color>
+    <color name="bgcolor_6">#f8dac3</color>
+    <color name="color_3">#c9c9c9</color>
+     <color name="color_4">#e4e4e4</color>
+    <color name="fontcolor_3">#777778</color>
+    <color name="fontcolor_7">#cacaca</color>
+    <color name="erweima_wait">#bbbdbd</color>
+    <color name="yellow">#FFF7D23E</color>
+    <color name="green">#FF34A350</color>
+    <!-- 分享 -->
+    <color name="share_gridview_bg">#F4F4F4</color>
+    <!-- 二维码 -->
+    <color name="result_view">#e42600</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+	<!-- 错题里面的3种颜色 -->
+	 <color name="color_101">#f4665b</color>
+	 <color name="color_102">#feb74e</color>
+	 <color name="color_103">#65cd64</color>
+    <!--购买视频-->
+	 <color name="video_shoping">#f2300a</color>
+	 <color name="video_title">#333333</color>
+    <!--推荐-->
+	 <color name="share_textcolor">#fc656e</color>
+	 <color name="share_bg">#f0eff5</color>
+    <!--首页 评分框颜色-->
+    <color name="home_score_content">#ff8484</color>
+    <color name="home_score_button">#93d5c8</color>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <cn.net.dingwei.DirectSeeding.BFMediaPlayerControllerLive
+        android:id="@+id/media_controller_live"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+        <ImageButton
+            android:id="@+id/btn_play"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:background="@drawable/vp_play_complete_selector"
+            android:visibility="gone"/>
+    </FrameLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:paddingTop="@dimen/margin_10dip">
+            <cn.net.dingwei.myView.PagerSlidingTabStrip
+                android:id="@+id/pagerSlidingTabStrip"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:background="@android:color/white"
+                app:pstsDividerColor="@color/light_gray"
+                app:pstsDividerPadding="1dp"
+                app:pstsIndicatorColor="@color/bgcolor_2"
+                app:pstsIndicatorHeight="2dp"
+                app:pstsShouldExpand="true"
+                app:pstsTabBackground="@android:color/transparent"
+                app:pstsTabPaddingLeftRight="20dp"
+                app:pstsUnderlineHeight="2dp"
+                app:selectedTabTextColor="@color/bgcolor_2" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+               ></android.support.v4.view.ViewPager>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

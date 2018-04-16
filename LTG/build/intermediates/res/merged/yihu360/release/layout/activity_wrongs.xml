@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lianxi_bg"
+    android:orientation="vertical" >
+
+    <include layout="@layout/sub_layout_title" />
+
+    <cn.net.dingwei.myView.MyScrollView
+        android:id="@+id/myscrollview"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/wite"
+                android:orientation="horizontal"
+                android:paddingBottom="20dip"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dip"
+                android:paddingTop="20dip" >
+
+                <LinearLayout
+                    android:id="@+id/linear1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="10dip" >
+
+                    <TextView
+                        android:id="@+id/text1_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="866"
+                        android:textColor="@color/wite"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="待消灭"
+                        android:textColor="@color/wite"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="10dip" >
+
+                    <TextView
+                        android:id="@+id/text2_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="866"
+                        android:textColor="@color/wite"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="将消灭"
+                        android:textColor="@color/wite"
+                        android:textSize="13sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:padding="10dip" >
+
+                    <TextView
+                        android:id="@+id/text3_number"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="866"
+                        android:textColor="@color/wite"
+                        android:textSize="20sp" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="已消灭"
+                        android:textColor="@color/wite"
+                        android:textSize="13sp" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <cn.net.dingwei.myView.MyListView
+                android:id="@+id/listview"
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:divider="@color/transparent"
+                android:dividerHeight="0dip"
+                android:scrollbars="none" >
+            </cn.net.dingwei.myView.MyListView>
+        </LinearLayout>
+    </cn.net.dingwei.myView.MyScrollView>
+
+    <TextView
+        android:id="@+id/no_data"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@color/wite"
+        android:gravity="center"
+        android:text="暂无错题"
+        android:textColor="@color/gray"
+        android:textSize="13sp"
+        android:visibility="gone" />
+
+</LinearLayout>

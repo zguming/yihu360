@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fresco="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/touch_click_wite">
+
+    <FrameLayout
+        android:id="@+id/framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/imageview"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            fresco:placeholderImage="@null"
+            android:layout_gravity="center"
+            />
+        <com.facebook.drawee.view.SimpleDraweeView
+            android:id="@+id/imageview2"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            fresco:placeholderImage="@null"/>
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:minWidth="50dp"
+        android:maxHeight="40dp"
+        android:singleLine="true"
+        android:ellipsize="end"
+        android:paddingTop="5dp"
+        android:text="真题模拟"
+        android:textSize="13sp"/>
+</LinearLayout>

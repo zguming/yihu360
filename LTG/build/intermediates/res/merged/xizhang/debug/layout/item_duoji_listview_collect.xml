@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:background="@color/wite"
+    android:orientation="vertical" >
+
+    <View
+        android:id="@+id/view_item_jianju"
+        android:layout_width="fill_parent"
+        android:layout_height="20dip"
+        android:background="@color/lianxi_bg"
+        android:visibility="gone" />
+
+    <LinearLayout
+        android:id="@+id/linear"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/touch_click_wite"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip" >
+
+        <LinearLayout
+            android:layout_width="30dip"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:orientation="vertical" >
+
+            <View
+                android:id="@+id/xian1"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_marginBottom="2dip"
+                android:layout_weight="1"
+                android:background="@color/ltgray"
+                android:visibility="invisible" />
+
+            <ImageView
+                android:id="@+id/image_left"
+                android:layout_width="25dip"
+                android:layout_height="25dip"
+                android:src="@drawable/iconfont_jiahao" />
+
+            <View
+                android:id="@+id/xian2"
+                android:layout_width="1dip"
+                android:layout_height="fill_parent"
+                android:layout_marginTop="2dip"
+                android:layout_weight="1"
+                android:background="@color/ltgray"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:paddingBottom="15dip"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip"
+            android:paddingTop="15dip" >
+
+            <TextView
+                android:id="@+id/text_title"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:singleLine="true"
+                android:text="章节打的啥打算打算打算打算打算打算的打算打算打算打算的"
+                android:textColor="@color/fontcolor_3"
+                android:textSize="13sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/numbers"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="10dip"
+            android:text="66"
+            android:textColor="@color/fontcolor_3"
+            android:textSize="13sp" />
+
+        <View
+            android:id="@+id/view_xian"
+            android:layout_width="1dip"
+            android:layout_height="25dip"
+            android:layout_marginRight="10dip"
+            android:background="@color/ltgray" />
+
+        <ImageView
+            android:id="@+id/image_lianxi"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:src="@drawable/lianxi" />
+    </LinearLayout>
+
+</LinearLayout>

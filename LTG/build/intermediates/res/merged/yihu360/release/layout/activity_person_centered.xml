@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:imagecontrol="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lianxi_bg">
+
+    <LinearLayout
+        android:id="@+id/linear_bg"
+        android:layout_width="fill_parent"
+        android:layout_height="260dip"
+        android:orientation="vertical"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <include layout="@layout/sub_layout_home_title" />
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <View
+                android:id="@+id/view_scrollview"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:background="@color/bgcolor_1" />
+
+            <cn.net.dingwei.myView.MyScrollView
+                android:layout_width="match_parent"
+                android:layout_height="fill_parent"
+                android:overScrollMode="never"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/person_top_bg"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/bgcolor_2"
+                        android:gravity="center_horizontal"
+                        android:orientation="vertical"
+                        android:paddingTop="15dip">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content">
+
+                            <View
+                                android:layout_width="match_parent"
+                                android:layout_height="50dp"
+                                android:layout_marginTop="50dp"
+                                android:background="@color/wite" />
+
+                            <cn.net.dingwei.myView.RoundImageView
+                                android:id="@+id/person_head"
+                                android:layout_width="100dip"
+                                android:layout_height="100dip"
+                                android:layout_gravity="center"
+                                android:layout_marginLeft="10dip"
+                                android:layout_marginRight="10dip"
+                                android:src="@drawable/answer_person"
+                                imagecontrol:border_outside_color="@color/transparent"
+                                imagecontrol:border_thickness="0dp" />
+                        </FrameLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/wite"
+                            android:gravity="center"
+                            android:orientation="horizontal"
+                            android:paddingLeft="15dip"
+                            android:paddingRight="15dip"
+                            android:paddingTop="@dimen/margin_10dip">
+
+                            <TextView
+                                android:id="@+id/level_text"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginRight="5dip"
+                                android:text=""
+                                android:textColor="@color/fontcolor_3"
+                                android:textSize="13sp" />
+
+                            <TextView
+                                android:id="@+id/level_name"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:text=""
+                                android:textColor="@color/fontcolor_3"
+                                android:textSize="13sp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:background="@color/wite"
+                            android:gravity="center"
+                            android:paddingBottom="15dp"
+                            android:paddingTop="15dp">
+
+                            <Button
+                                android:id="@+id/pay_rmb"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingBottom="@dimen/margin_10dip"
+                                android:paddingLeft="25dp"
+                                android:paddingRight="25dp"
+                                android:paddingTop="@dimen/margin_10dip"
+                                android:text="我的功能包"
+                                android:textColor="@color/wite"
+                                android:background="@color/transparent"/>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="fill_parent"
+                            android:layout_height="wrap_content"
+                            android:background="@color/wite"
+                            android:orientation="horizontal">
+
+                            <LinearLayout
+                                android:id="@+id/linear_buttom"
+                                android:layout_width="fill_parent"
+                                android:layout_height="wrap_content"
+                                android:orientation="horizontal"
+                                android:paddingBottom="10dip"
+                                android:paddingTop="10dip">
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:gravity="center"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="bottom"
+                                        android:orientation="horizontal">
+
+                                        <TextView
+                                            android:id="@+id/userd_days"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text=""
+                                            android:textColor="@color/bgcolor_2"
+                                            android:textSize="26sp" />
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text=" 天"
+                                            android:textColor="@color/gray"
+                                            android:textSize="11sp" />
+                                    </LinearLayout>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="0dip"
+                                        android:text="与您相伴"
+                                        android:textColor="@color/fontcolor_3"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:gravity="center"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="bottom"
+                                        android:orientation="horizontal">
+
+                                        <TextView
+                                            android:id="@+id/amount_lt"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text="22"
+                                            android:textColor="@color/bgcolor_2"
+                                            android:textSize="26sp" />
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text=" 道"
+                                            android:textColor="@color/gray"
+                                            android:textSize="11sp" />
+                                    </LinearLayout>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="0dip"
+                                        android:text="坚持练题"
+                                        android:textColor="@color/fontcolor_3"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="1"
+                                    android:gravity="center"
+                                    android:orientation="vertical">
+
+                                    <LinearLayout
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:gravity="bottom"
+                                        android:orientation="horizontal">
+
+                                        <TextView
+                                            android:id="@+id/amount_gg"
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text="1"
+                                            android:textColor="@color/bgcolor_2"
+                                            android:textSize="26sp" />
+
+                                        <TextView
+                                            android:layout_width="wrap_content"
+                                            android:layout_height="wrap_content"
+                                            android:text=" 道"
+                                            android:textColor="@color/gray"
+                                            android:textSize="11sp" />
+                                    </LinearLayout>
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_marginTop="0dip"
+                                        android:text="巩固错题"
+                                        android:textColor="@color/fontcolor_3"
+                                        android:textSize="13sp" />
+                                </LinearLayout>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="1px"
+                        android:background="@color/color_3" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="20dp"
+                        android:background="@color/lianxi_bg" />
+
+                    <cn.net.dingwei.myView.MyListView
+                        android:id="@+id/listview"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/lianxi_bg"
+                        android:divider="@color/transparent"
+                        android:dividerHeight="0dip"
+                        android:listSelector="@android:color/transparent"
+                        android:paddingBottom="20dip" />
+
+                    <TextView
+                        android:layout_width="fill_parent"
+                        android:layout_height="45dip" />
+                </LinearLayout>
+
+            </cn.net.dingwei.myView.MyScrollView>
+        </FrameLayout>
+    </LinearLayout>
+
+</FrameLayout>

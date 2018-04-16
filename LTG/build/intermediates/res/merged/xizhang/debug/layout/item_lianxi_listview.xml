@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.net.dingwei.myView.ElasticScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="150dip"
+    android:scrollbars="none" 
+    >
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <!-- 用2个ListView 显示切换效果 -->
+
+        <cn.net.dingwei.myView.MyListView
+            android:id="@+id/listview2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </cn.net.dingwei.myView.MyListView>
+
+        <cn.net.dingwei.myView.MyListView
+            android:id="@+id/listview1"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent" >
+        </cn.net.dingwei.myView.MyListView>
+
+        <TextView
+            android:id="@+id/no_ct_desc"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:paddingTop="10dip"
+            android:textSize="13sp"
+            android:visibility="gone" />
+    </FrameLayout>
+
+</cn.net.dingwei.myView.ElasticScrollView>

@@ -1,0 +1,3 @@
+# Referenced at F:\yihu360\LTG\build\intermediates\manifests\full\yihu360\debug\AndroidManifest.xml:111
+-keep class cn.net.dingwei.util.MyApplication { <init>(...); }
+

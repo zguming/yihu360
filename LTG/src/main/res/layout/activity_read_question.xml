@@ -1,0 +1,99 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <cn.net.dingwei.myView.MyLinear_readquestion
+        android:id="@+id/myLinear"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="vertical" >
+
+            <include layout="@layout/sub_layout_answer_title" />
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager_parent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="45dip" />
+
+            <Button
+                android:id="@+id/buttom_button"
+                android:layout_width="fill_parent"
+                android:layout_height="45dip"
+                android:layout_gravity="bottom"
+                android:alpha="0.7"
+                android:text="查看解析"
+                android:textSize="15sp" />
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_answer2"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/wite"
+            android:orientation="vertical" >
+
+            <include layout="@layout/item_answer2" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear3_bg"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:orientation="horizontal" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="center_vertical"
+                android:orientation="vertical"
+                android:paddingLeft="15dip"
+                android:paddingRight="15dip" >
+
+                <Button
+                    android:id="@+id/linear3_button1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:paddingBottom="10dip"
+                    android:paddingTop="10dip"
+                    android:text="继续练习"
+                    android:textSize="13sp" />
+
+                <Button
+                    android:id="@+id/linear3_button2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dip"
+                    android:gravity="center"
+                    android:paddingBottom="10dip"
+                    android:paddingTop="10dip"
+                    android:text="返回"
+                    android:textSize="13sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:background="@color/listview_item"
+                android:gravity="center_vertical"
+                android:orientation="vertical" >
+            </LinearLayout>
+        </LinearLayout>
+    </cn.net.dingwei.myView.MyLinear_readquestion>
+
+    <ProgressBar
+        android:id="@+id/home_load_progressbar"
+        android:layout_width="50dip"
+        android:layout_height="50dip"
+        android:layout_gravity="center"
+        android:indeterminateDrawable="@drawable/home_progress"
+        android:visibility="gone" />
+
+</FrameLayout>

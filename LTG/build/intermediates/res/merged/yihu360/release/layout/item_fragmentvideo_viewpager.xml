@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/refresh" />
+    <include layout="@layout/item_video_nodata" />
+
+    <cn.net.dingwei.myView.MyScrollView
+        android:id="@+id/myScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/linear_top"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/touch_click_wite"
+                android:clickable="true"
+                android:orientation="horizontal"
+                android:padding="@dimen/margin_10dip"
+                android:visibility="gone">
+
+                <TextView
+                    android:id="@+id/text_jixutext1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="视频播放了0%"
+                    android:textColor="@color/fontcolor_3"
+                    android:textSize="13sp" />
+
+                <TextView
+                    android:id="@+id/text_jixutext2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="@dimen/margin_10dip"
+                    android:text="继续观看"
+                    android:textColor="@color/fontcolor_3"
+                    android:textSize="13sp" />
+
+                <ImageView
+                    android:id="@+id/imageview"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/home_list_right" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/view_item_jianju"
+                android:layout_width="fill_parent"
+                android:layout_height="10dp"
+                android:background="@color/color_4"
+                android:visibility="gone" />
+
+            <cn.net.dingwei.myView.MyListView
+                android:id="@+id/listview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:divider="@null"></cn.net.dingwei.myView.MyListView>
+        </LinearLayout>
+    </cn.net.dingwei.myView.MyScrollView>
+</LinearLayout>

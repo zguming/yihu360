@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:paddingBottom="15dip"
+    android:paddingTop="15dip" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/text_pglx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lineSpacingMultiplier="1.5"
+            android:paddingLeft="15dip"
+            android:paddingRight="15dip"
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/pglx_xian"
+            android:layout_width="fill_parent"
+            android:layout_height="1dip" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/pglx_btn"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginLeft="15dip"
+        android:layout_marginRight="15dip"
+        android:text="开始评估练习" />
+
+</FrameLayout>

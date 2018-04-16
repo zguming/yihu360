@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <include layout="@layout/sub_layout_title" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <listview_DownPullAndUpLoad.XListView
+            android:id="@+id/listview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:divider="@color/transparent"
+            android:dividerHeight="0px"
+            android:listSelector="@color/transparent" >
+        </listview_DownPullAndUpLoad.XListView>
+
+        <TextView
+            android:id="@+id/no_data"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="暂无笔记"
+            android:textColor="@color/gray"
+            android:textSize="13sp"
+            android:visibility="gone" 
+            android:background="@color/wite"/>
+    </FrameLayout>
+
+</LinearLayout>
